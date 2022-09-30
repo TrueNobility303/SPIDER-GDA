@@ -3,7 +3,7 @@
 Offical Code for **Faster Stochastic Algorithms for Minimax Optimization
 under Polyak-Łojasiewicz Condition** (NeurIPS, 2022)
 
-To reimplement the experiments in our paper, run 
+To reimplement the experiments in our paper, please run 
 
 ```
 code/PL_game/demoxxx.m
