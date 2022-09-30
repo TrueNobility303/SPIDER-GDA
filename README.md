@@ -6,5 +6,5 @@ under Polyak-Łojasiewicz Condition** (NeurIPS, 2022)
 To reimplement the experiments in our paper, run 
 
 ```
-code/PL_game/demo.m
+code/PL_game/demoxxx.m
 ```
