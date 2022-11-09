@@ -4,12 +4,15 @@ Codes for "Faster Stochastic Algorithms for Minimax Optimization
 under Polyak-Łojasiewicz Condition" (NeurIPS, 2022)
 
 We consider the following two player Polyak-Łojasiewicz game 
+
 $$
 \begin{align*}
 \min_{x\in\mathbb{R}^{d}}\max_{y\in\mathbb{R}^{d}} f(x,y) = \frac{1}{2} x^\top P x  - \frac{1}{2}y^\top Q  y + x^\top R  y,
 \end{align*}
 $$
+
 where
+
 $$
 \begin{align*}
 P = \frac{1}{n}\sum_{i=1}^n p_i p_i^\top, \quad
