@@ -1,7 +1,7 @@
 # SPIDER-GDA
 
 Codes for "Faster Stochastic Algorithms for Minimax Optimization
-under Polyak-Łojasiewicz Condition"
+under Polyak-Łojasiewicz Condition" in NeurIPS 2022.
 
 We consider the following two player Polyak-Łojasiewicz game 
 
