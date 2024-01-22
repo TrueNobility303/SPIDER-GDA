@@ -1,7 +1,5 @@
 # SPIDER-GDA
 
-[NeurIPS 2022] Faster Stochastic Algorithms for Minimax Optimization under Polyak-Łojasiewicz Condition. 
-
 We consider the following two-player zero-sum Polyak-Łojasiewicz game 
 
 $$
